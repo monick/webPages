@@ -1,0 +1,35 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+.main {
+	margin-top: 90px;
+}
+
+.gallery-item figure {
+	text-align: center !important;
+}
+.nav-height{
+	height: 70px;
+}
+.nav-backgroundcolor{
+	background-color: #7D3875;
+	border-bottom: #7D3875;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #222222;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.row {
+	padding-bottom: 50px;
+}
